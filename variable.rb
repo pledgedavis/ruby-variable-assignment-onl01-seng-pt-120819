@@ -2,7 +2,7 @@
  # give it the value of the string "Hello World"
 
 
-greeting = "hello world"
+greeting = "Hello world"
 
 
 
